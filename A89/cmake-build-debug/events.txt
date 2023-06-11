@@ -1,0 +1,1 @@
+proba|proba2|2023.12.24 23:45|502|https://forum.qt.io/topic/53536/solved-how-do-i-display-the-contents-of-a-qstringlist-in-a-qtextbrowser/7

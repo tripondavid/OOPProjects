@@ -1,0 +1,13 @@
+# ninja log v5
+13	145	7066453681118568	ProbaTestLab13Tura2_autogen/mocs_compilation.cpp	60b9185531dd94e
+8	897	7082253515346286	build.ninja	73248730be5e2d65
+13	145	7066453681118568	C:/Users/david/Desktop/Facultate/Anul 1/Semestrul 2/OOP/ProbaTestLab13Tura2/cmake-build-debug/ProbaTestLab13Tura2_autogen/mocs_compilation.cpp	60b9185531dd94e
+209	839	7065506104524548	CMakeFiles/ProbaTestLab13Tura2.dir/Item.cpp.obj	5b5f38a2b7755282
+13	145	7066453681118568	ProbaTestLab13Tura2_autogen/timestamp	60b9185531dd94e
+129	600	7065512201463469	CMakeFiles/ProbaTestLab13Tura2.dir/Service.cpp.obj	6ae783a97df58d7f
+13	145	7066453681118568	C:/Users/david/Desktop/Facultate/Anul 1/Semestrul 2/OOP/ProbaTestLab13Tura2/cmake-build-debug/ProbaTestLab13Tura2_autogen/timestamp	60b9185531dd94e
+231	334	7065443275195376	CMakeFiles/ProbaTestLab13Tura2.dir/ProbaTestLab13Tura2_autogen/mocs_compilation.cpp.obj	7d78fd3f49d03f68
+135	704	7065512202503527	CMakeFiles/ProbaTestLab13Tura2.dir/Repository.cpp.obj	c31d7210b6f7d107
+152	4696	7066230583447673	CMakeFiles/ProbaTestLab13Tura2.dir/main.cpp.obj	274617610869642e
+2358	2830	7066453705898453	ProbaTestLab13Tura2.exe	d0c629b22bb73141
+156	2358	7066453703251640	CMakeFiles/ProbaTestLab13Tura2.dir/Gui.cpp.obj	a4dce209d66d97c1

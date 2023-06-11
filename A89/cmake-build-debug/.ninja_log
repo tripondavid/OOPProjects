@@ -1,0 +1,35 @@
+# ninja log v5
+19	194	7064668631236854	C:/Users/david/Desktop/Facultate/Anul 1/Semestrul 2/OOP/A89/cmake-build-debug/A89_autogen/timestamp	4bd4fb7de65dddb1
+31	1127	7061362577068681	build.ninja	c3086aa00395f887
+19	194	7064668631236854	A89_autogen/timestamp	4bd4fb7de65dddb1
+19	194	7064668631236854	A89_autogen/mocs_compilation.cpp	4bd4fb7de65dddb1
+419	554	7060300729966557	CMakeFiles/A89.dir/A89_autogen/mocs_compilation.cpp.obj	40b05463eeb60d8c
+213	16803	7064668797352284	CMakeFiles/A89.dir/main.cpp.obj	801f2b4bae1a288f
+397	7173	7060590269780327	CMakeFiles/A89.dir/HTMLFile.cpp.obj	2a19c5896947bee3
+19	194	7064668631236854	C:/Users/david/Desktop/Facultate/Anul 1/Semestrul 2/OOP/A89/cmake-build-debug/A89_autogen/mocs_compilation.cpp	4bd4fb7de65dddb1
+17121	18825	7064668807155886	A89.exe	840a021ff3df5c76
+361	3344	7060590227041913	CMakeFiles/A89.dir/DateTime.cpp.obj	3f576830a21fea47
+188	1210	7062119422627887	CMakeFiles/A89.dir/ServiceAdmin.cpp.obj	29706cd23cfef11
+488	3715	7060590234649742	CMakeFiles/A89.dir/Validator.cpp.obj	af9dca1211547c90
+156	1018	7062116541390898	CMakeFiles/A89.dir/TextFileRepo.cpp.obj	10fd2fe5b7bea14c
+412	4387	7060590241556200	CMakeFiles/A89.dir/Repository.cpp.obj	54898b07ddc49dd1
+352	7163	7060590269685995	CMakeFiles/A89.dir/FileSaver.cpp.obj	254186fc1cc3b25b
+114	1796	7061016300577765	CMakeFiles/A89.dir/CSVFile.cpp.obj	290a25b4fbd2fb7
+386	7233	7060590270394417	CMakeFiles/A89.dir/ServiceUser.cpp.obj	402dd2486b793dac
+452	7447	7060590272527124	CMakeFiles/A89.dir/Ui.cpp.obj	c93827b12a9fc053
+179	915	7060594249713251	CMakeFiles/A89.dir/Event.cpp.obj	934d4290b26d221b
+219	17120	7064668800462296	CMakeFiles/A89.dir/Gui.cpp.obj	35de3d8439c647ad
+9	155	7064670940043518	A89_autogen/timestamp	4bd4fb7de65dddb1
+9	155	7064670940043518	A89_autogen/mocs_compilation.cpp	4bd4fb7de65dddb1
+9	155	7064670940043518	C:/Users/david/Desktop/Facultate/Anul 1/Semestrul 2/OOP/A89/cmake-build-debug/A89_autogen/timestamp	4bd4fb7de65dddb1
+9	155	7064670940043518	C:/Users/david/Desktop/Facultate/Anul 1/Semestrul 2/OOP/A89/cmake-build-debug/A89_autogen/mocs_compilation.cpp	4bd4fb7de65dddb1
+174	5121	7064670989688157	CMakeFiles/A89.dir/main.cpp.obj	801f2b4bae1a288f
+184	5389	7064670992340965	CMakeFiles/A89.dir/Gui.cpp.obj	35de3d8439c647ad
+5389	6066	7064670996720304	A89.exe	840a021ff3df5c76
+16	208	7064698745711454	A89_autogen/timestamp	4bd4fb7de65dddb1
+16	208	7064698745711454	A89_autogen/mocs_compilation.cpp	4bd4fb7de65dddb1
+16	208	7064698745711454	C:/Users/david/Desktop/Facultate/Anul 1/Semestrul 2/OOP/A89/cmake-build-debug/A89_autogen/timestamp	4bd4fb7de65dddb1
+16	208	7064698745711454	C:/Users/david/Desktop/Facultate/Anul 1/Semestrul 2/OOP/A89/cmake-build-debug/A89_autogen/mocs_compilation.cpp	4bd4fb7de65dddb1
+225	6054	7064698804191437	CMakeFiles/A89.dir/main.cpp.obj	801f2b4bae1a288f
+233	6277	7064698806411584	CMakeFiles/A89.dir/Gui.cpp.obj	35de3d8439c647ad
+6278	8430	7064698815253643	A89.exe	840a021ff3df5c76
